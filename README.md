@@ -1,1 +1,1 @@
-![Welcome](https://i.ibb.co/nrfsyHJ/portada-github-2.png)
+![Welcome](https://ibb.co/WxzdTcL)
