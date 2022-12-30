@@ -10,4 +10,4 @@
 
 - 👔 LinkedIn: [Jerónimo Ginaca](https://www.linkedin.com/in/jeronimoginaca/)
 - 📨 Email: [jeroginaca@gmail.com](mailto:jeroginaca@gmail.com)
-- 📲 Whatsapp: [click here :P](https://wa.me/5491126343056)
+- 📲 Whatsapp: [click here](https://wa.me/5491126343056)
