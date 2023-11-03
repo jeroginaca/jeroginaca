@@ -1,4 +1,4 @@
-![Welcome]([https://i.ibb.co/2jCbbff/portada-github-final.png](https://res.cloudinary.com/dr3cvyonp/image/upload/v1699005993/fondo_github_rdmtru.png))
+![Welcome](https://res.cloudinary.com/dr3cvyonp/image/upload/v1699005993/fondo_github_rdmtru.png)
 ## About me
 
 - 👨🏻‍💻 Full Stack Developer - Passionate about Frontend
